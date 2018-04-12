@@ -1,0 +1,24 @@
+{
+  "name": "leo11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackrabit13/leo11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackrabit13/leo11/issues"
+  },
+  "homepage": "https://github.com/blackrabit13/leo11#readme"
+}
